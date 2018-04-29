@@ -3,7 +3,7 @@
     "name": "startbootstrap-resume",
     "version": "4.0.0",
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
-    "script": {
+    "scripts": {
       "start": "live-server"
     },
     "keywords": [
