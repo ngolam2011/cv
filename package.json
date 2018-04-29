@@ -3,6 +3,9 @@
     "name": "startbootstrap-resume",
     "version": "4.0.0",
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "script": {
+      "start": "live-server"
+    },
     "keywords": [
         "css",
         "sass",
@@ -29,6 +32,7 @@
         "bootstrap": "4.0.0",
         "devicons": "^1.8.0",
         "jquery": "3.3.1",
+        "live-server": "^1.2.0",
         "simple-line-icons": "^2.4.1"
     },
     "devDependencies": {
